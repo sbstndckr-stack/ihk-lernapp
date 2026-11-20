@@ -1,0 +1,158 @@
+{
+  "format": "lernapp-kurs/1",
+  "erstellt": "2026-11-20",
+  "kurs": { "id": "probe-personal-w02", "titel": "Probe-Paket: Personal W02 (aus dem Lern-Monitor)" },
+  "lernziele": [
+    {
+      "id": "gen-pers-w02-1-mw8y2bxi",
+      "titel": "Personalauswahl: Verfahren, AGG und Betriebsratsbeteiligung",
+      "thema": "pers", "tag": "pers-w02", "order": 1,
+      "kann": "Danach kann ich Auswahlverfahren einordnen, Stellenanzeigen und Fragen im Vorstellungsgespräch nach dem AGG beurteilen und die Beteiligung des Betriebsrats bei Einstellungen (§ 99 BetrVG) erläutern.",
+      "lernkarte": {
+        "kurz": "Personalauswahl heißt: aus allen Bewerbern die passende Person finden – fair und rechtssicher. In der Prüfung kommen drei Fragen: Welches Auswahlverfahren passt zur Stelle? Ist die Stellenanzeige oder die Frage im Gespräch mit dem AGG vereinbar? Und wurde der Betriebsrat vor der Einstellung richtig beteiligt (§ 99 BetrVG)?",
+        "begriffe": [
+          { "b": "Strukturiertes Interview", "d": "Vorstellungsgespräch, in dem alle Bewerber dieselben vorher festgelegten Fragen bekommen und die Antworten nach einer festen Skala bewertet werden. Dadurch vergleichbar, fair und AGG-sicher.", "x": "Jeder Bewerber für die Wache bekommt dieselben 8 Fragen, z. B. „Schildern Sie einen Einsatz, in dem Sie unter Druck entscheiden mussten“, bewertet mit 1 bis 5 Punkten." },
+          { "b": "Assessment Center", "d": "Auswahlverfahren, bei dem mehrere Beobachter mehrere Bewerber in praxisnahen Übungen bewerten (Rollenspiel, Gruppendiskussion, Präsentation). Aufwendig – lohnt sich vor allem für Führungsstellen.", "x": "Auswahl einer Wachenleitung: Konfliktgespräch mit einem Mitarbeiter als Rollenspiel, beobachtet von Rettungsdienstleiter und Personalabteilung." },
+          { "b": "Arbeitsprobe", "d": "Der Bewerber erledigt eine typische Aufgabe der Stelle unter Beobachtung, z. B. beim Hospitationstag. Zeigt, was er wirklich kann – nicht nur, was er erzählt.", "x": "Der Bewerber arbeitet eine Fallsimulation am Übungsphantom nach dem ABCDE-Schema ab." },
+          { "b": "Fragerecht des Arbeitgebers", "d": "Im Vorstellungsgespräch sind nur Fragen erlaubt, an denen für die konkrete Stelle ein berechtigtes Interesse besteht. Auf unzulässige Fragen (z. B. Schwangerschaft, Familienplanung, Gewerkschaft, Partei) darf der Bewerber falsch antworten – „Recht zur Lüge“.", "x": "Zulässig: „Haben Sie die Fahrerlaubnis C1?“ Unzulässig: „Planen Sie in nächster Zeit Kinder?“" },
+          { "b": "Indiz nach § 22 AGG", "d": "Kann ein Bewerber Tatsachen zeigen, die eine Benachteiligung vermuten lassen (z. B. eine Formulierung in der Anzeige), muss der Arbeitgeber beweisen, dass er nicht benachteiligt hat (Beweislastumkehr).", "x": "„Verstärkung für unser junges Team gesucht“ → Indiz für eine Benachteiligung wegen des Alters; die gGmbH muss beweisen, dass das Alter keine Rolle spielte." },
+          { "b": "Entschädigung nach § 15 Abs. 2 AGG", "d": "Geldausgleich für eine Benachteiligung. Bei einer Nichteinstellung höchstens drei Monatsgehälter, wenn der Bewerber auch bei fairer Auswahl nicht eingestellt worden wäre. Geltend machen: schriftlich innerhalb von 2 Monaten.", "x": "Eine abgelehnte 52-jährige Bewerberin beruft sich auf die Anzeige „junges Team“ – Risiko für die gGmbH: bis zu 3 Monatsgehälter." },
+          { "b": "Zustimmungsfiktion (§ 99 Abs. 3 BetrVG)", "d": "Verweigert der Betriebsrat seine Zustimmung zur Einstellung nicht innerhalb einer Woche schriftlich mit Gründen, gilt sie als erteilt.", "x": "Die Personalabteilung legt dem Betriebsrat am Montag die Einstellung vor; kommt bis zum Ablauf des folgenden Montags nichts Schriftliches, darf eingestellt werden." }
+        ],
+        "geruest": [
+          "Stelle zitieren: „…“ (wörtlich aus der Anzeige oder dem Gespräch).",
+          "Merkmal aus § 1 AGG benennen: Geschlecht, Alter, ethnische Herkunft, Religion/Weltanschauung, Behinderung oder sexuelle Identität.",
+          "Folge: Indiz für eine Benachteiligung (§ 22 AGG) → Risiko Entschädigung bis 3 Monatsgehälter (§ 15 AGG).",
+          "Besser formulieren: z. B. (m/w/d), „engagiertes Team“, „sehr gute Deutschkenntnisse in Wort und Schrift“.",
+          "Betriebsrat: vor der Einstellung unterrichten und Zustimmung einholen (§ 99 BetrVG, Frist 1 Woche)."
+        ],
+        "falle": "„Das ist rassistisch“ oder „darf man nicht schreiben“ bringt kaum Punkte. Die IHK will das Merkmal aus § 1 AGG (z. B. ethnische Herkunft, Alter) und den Paragrafen. Und: Bei der Einstellung wird der Betriebsrat nicht nur informiert – er muss zustimmen oder eine Woche schweigen.",
+        "merksatz": "Zitieren – Merkmal – Paragraf – besser formulieren – Betriebsrat zustimmen lassen."
+      }
+    },
+    {
+      "id": "gen-pers-w02-2-mw8y2bxi",
+      "titel": "Personaleinsatz: Bedarf, Arbeitszeit und Mitbestimmung",
+      "thema": "pers", "tag": "pers-w02", "order": 2,
+      "kann": "Danach kann ich den Nettopersonalbedarf berechnen, Grenzen des Arbeitszeitgesetzes anwenden und Mitbestimmungsrechte des Betriebsrats bei Dienstplan und Überstunden benennen.",
+      "lernkarte": {
+        "kurz": "Personaleinsatz heißt: genug Leute, zur richtigen Zeit, im Rahmen des Gesetzes. Fast jede Prüfungsaufgabe zu Dienstplan, Ausfall oder Einspringen prüft drei Fragen: Wie viele Kräfte brauche ich (Personalbedarf)? Darf der Mitarbeiter so lange und so kurz hintereinander arbeiten (Arbeitszeitgesetz)? Darf ich das allein entscheiden (Betriebsrat, § 87 BetrVG)?",
+        "begriffe": [
+          { "b": "Höchstarbeitszeit (§ 3 ArbZG)", "d": "Werktäglich höchstens 8 Stunden. Bis zu 10 Stunden sind erlaubt, wenn im Durchschnitt von 6 Kalendermonaten oder 24 Wochen 8 Stunden je Werktag nicht überschritten werden.", "x": "Dienst von 7 bis 19 Uhr mit 45 Minuten Pause = 11,25 Stunden → über 10 Stunden, ohne tarifliche Ausnahme unzulässig." },
+          { "b": "Ruhepause (§ 4 ArbZG)", "d": "Arbeitsunterbrechung, die vorher feststeht: bei mehr als 6 bis 9 Stunden Arbeit mindestens 30 Minuten, bei mehr als 9 Stunden mindestens 45 Minuten. Teilbar in Abschnitte von mindestens 15 Minuten; nie länger als 6 Stunden am Stück ohne Unterbrechung.", "x": "Im 10-Stunden-Dienst auf dem RTW müssen 45 Minuten eingeplant sein – nicht nur „wenn Zeit ist“." },
+          { "b": "Ruhezeit (§ 5 ArbZG)", "d": "Nach Dienstende mindestens 11 Stunden ununterbrochen frei. In Einrichtungen zur Behandlung, Pflege und Betreuung von Personen darf sie um bis zu 1 Stunde kürzer sein, wenn eine andere freie Zeit zwischen zwei Diensten innerhalb eines Kalendermonats oder von 4 Wochen auf mindestens 12 Stunden verlängert wird.", "x": "Spätdienst bis 22 Uhr, Frühdienst ab 6 Uhr = 8 Stunden frei → unzulässig, auch mit der 1-Stunden-Ausnahme." },
+          { "b": "Notfall (§ 14 ArbZG)", "d": "Vorübergehende Arbeit in außergewöhnlichen, unvorhersehbaren Fällen, deren Folgen sich nicht anders beseitigen lassen. Nur dann darf von den Grenzen der §§ 3 bis 5 abgewichen werden. Ein normaler Krankheitsausfall ist planbar und zählt nicht.", "x": "Großschadenslage (MANV) → Ausnahme greift. Kollege meldet sich krank → keine Ausnahme, sondern Aufgabe der Dienstplanung (Springer, Reserve)." },
+          { "b": "Lage der Arbeitszeit (§ 87 Abs. 1 Nr. 2 BetrVG)", "d": "Beginn und Ende der täglichen Arbeitszeit einschließlich der Pausen und die Verteilung auf die Wochentage. Dazu gehört jeder Dienstplan und jede Änderung daran – der Betriebsrat muss zustimmen (echte Mitbestimmung, oft über eine Betriebsvereinbarung geregelt).", "x": "Der Monatsdienstplan der Wache und jede kurzfristige Änderung brauchen die Zustimmung des Betriebsrats." },
+          { "b": "Überstunden anordnen (§ 87 Abs. 1 Nr. 3 BetrVG)", "d": "Vorübergehende Verlängerung der betriebsüblichen Arbeitszeit. Der Betriebsrat muss vorher zustimmen. Der einzelne Mitarbeiter muss nur, wenn Arbeits- oder Tarifvertrag das vorsehen oder ein Notfall vorliegt.", "x": "Zwei Kollegen sollen wegen Personalausfall länger bleiben → vorher Zustimmung des Betriebsrats, sonst ist die Anordnung unwirksam." }
+        ],
+        "geruest": [
+          "Urteil zuerst: „Der Einsatz ist so nicht zulässig, weil …“",
+          "Ausrechnen: Dienstdauer = Ende − Beginn − Pause; freie Zeit = Beginn neuer Dienst − Ende alter Dienst.",
+          "Arbeitszeitgesetz mit Zahl prüfen: höchstens 10 Stunden (§ 3) · Pause 30/45 Minuten (§ 4) · 11 Stunden Ruhezeit (§ 5) · Notfall? (§ 14 – normaler Ausfall nein).",
+          "Betriebsrat: Dienstplan oder Änderung → Zustimmung nach § 87 Abs. 1 Nr. 2 · Überstunden → Zustimmung nach § 87 Abs. 1 Nr. 3 BetrVG.",
+          "Lösung: wie es rechtssicher geht (Springer, späterer Dienstbeginn, Zustimmung einholen).",
+          "Rechnen Personalbedarf: Formel hinschreiben → Netto = Einsatzbedarf + Reservebedarf − Ist-Bestand + Abgänge − Zugänge → Ergebnis in VK, Plus = Unterdeckung."
+        ],
+        "falle": "„Betriebsrat muss informiert werden“ und „gesetzliche Ruhezeiten nicht eingehalten“ kosten die Hälfte der Punkte: Bei Dienstplan und Überstunden wird der Betriebsrat nicht informiert, er muss zustimmen (§ 87 BetrVG). Und bei der Ruhezeit will die IHK Zahl und Rechnung: 22 Uhr bis 6 Uhr = 8 Stunden statt 11 Stunden (§ 5 ArbZG).",
+        "merksatz": "8 – 10 – 11: acht Stunden normal, zehn höchstens, elf Stunden frei. Und der Betriebsrat nickt nicht nur – er stimmt zu."
+      }
+    }
+  ],
+  "fragen": [
+    {
+      "id": "gen-gen-pers-w02-1-mw8y2bxi-mw8yb30u", "lz": "gen-pers-w02-1-mw8y2bxi", "typ": "multi",
+      "prompt": "Die Reha-Klinik Seeblick schreibt aus: „Ergotherapeut (m), nicht älter als 30, voll belastbar ohne gesundheitliche Einschränkungen, gern ledig, ohne Gewerkschaftsbindung.“ Welche der hier angesprochenen Merkmale sind in § 1 AGG als Benachteiligungsgrund genannt?",
+      "options": ["Lebensalter der Bewerbenden", "Geschlecht der Bewerbenden", "Behinderung der Bewerbenden", "Familienstand der Bewerbenden", "Gewerkschaftszugehörigkeit der Bewerbenden"],
+      "correct": [0, 1, 2],
+      "explanation": "§ 1 AGG nennt u. a. Alter, Geschlecht und Behinderung, daher sind die Anzeigenteile „nicht älter als 30“, „(m)“ und „ohne gesundheitliche Einschränkungen“ problematisch. Die Falle: Familienstand und Gewerkschaftszugehörigkeit stehen nicht im AGG, ihr Schutz folgt aus anderen Regelungen (z. B. Art. 9 GG)."
+    },
+    {
+      "id": "gen-gen-pers-w02-1-mw8y2bxi-mw8yc1wq", "lz": "gen-pers-w02-1-mw8y2bxi", "typ": "multi",
+      "prompt": "Der Fachbegriff „mittelbare Benachteiligung“ (§ 3 Abs. 2 AGG) liegt vor, wenn eine dem Anschein nach neutrale Regelung Personen wegen eines geschützten Merkmals besonders benachteiligen kann und nicht sachlich gerechtfertigt ist. In welchen Fällen liegt sie vor?",
+      "options": ["Das MVZ Birkenau fordert in der Anzeige für die Anmeldung ausdrücklich Bewerber unter 30 Jahren, ältere werden abgelehnt.", "Das MVZ Lindenhof fordert in der Anzeige für die Praxisverwaltung ausschließlich Vollzeit, Teilzeitbewerbungen werden nicht berücksichtigt.", "Das MVZ Südstern fordert in der Anzeige für die Facharztstelle die Approbation und die Facharztanerkennung als Voraussetzung.", "Das MVZ Rosental fordert in der Anzeige für die Anmeldung eine Körpergröße von mindestens 1,85 Metern ohne Tätigkeitsbezug.", "Das MVZ Talblick fordert in der Anzeige für die Anmeldung ausdrücklich Bewerberinnen, männliche Bewerber werden abgelehnt."],
+      "correct": [1, 3],
+      "explanation": "Mittelbar benachteiligen neutral formulierte Kriterien (nur Vollzeit, Mindestgröße), die faktisch vor allem Frauen treffen und nicht gerechtfertigt sind. Die Falle: Eine offen an Alter oder Geschlecht anknüpfende Anforderung ist unmittelbare Benachteiligung, und die Approbation ist als berufliche Anforderung gerechtfertigt."
+    },
+    {
+      "id": "gen-gen-pers-w02-1-mw8y2bxi-mw8ye28a", "lz": "gen-pers-w02-1-mw8y2bxi", "typ": "multi",
+      "prompt": "Ein Krankenhaus mit Betriebsrat besetzt mehrere Stellen neu. Welche Aussagen zu Einstellung und Vorstellungsgespräch sind falsch?",
+      "options": ["Der Betriebsrat darf seine Zustimmung zur Einstellung nur aus den im Gesetz genannten Gründen verweigern.", "Schweigt der Betriebsrat eine Woche nach vollständiger Unterrichtung, gilt seine Zustimmung als erteilt.", "Verweigert der Betriebsrat fristgerecht seine Zustimmung, ist die Einstellung endgültig gescheitert.", "Nach Vorstrafen darf nur gefragt werden, soweit die Straftat für die vorgesehene Tätigkeit bedeutsam ist.", "Nach einer Schwangerschaft darf gefragt werden, wenn auf der Stelle ein Beschäftigungsverbot greift."],
+      "correct": [2, 4],
+      "explanation": "Falsch sind Aussage 3 und 5. Bei verweigerter Zustimmung kann der Arbeitgeber die Ersetzung beim Arbeitsgericht beantragen (§ 99 Abs. 4 BetrVG). Die Frage nach einer Schwangerschaft bleibt auch bei einem möglichen Beschäftigungsverbot eine unzulässige Benachteiligung wegen des Geschlechts (AGG)."
+    },
+    {
+      "id": "probe-pers-w02-1-ihk-1", "lz": "gen-pers-w02-1-mw8y2bxi", "typ": "ihk",
+      "situation": "Das Seniorenzentrum „Am Mühlbach“ gGmbH (85 Beschäftigte, Betriebsrat vorhanden) sucht eine Pflegefachkraft. Die Pflegedienstleitung hat folgende Anzeige entworfen: „Pflegefachmann (m) für unser junges, dynamisches Team gesucht. Muttersprache Deutsch erforderlich.“ Die Einrichtungsleitung will die Stelle in zwei Wochen besetzen und den Betriebsrat „nach der Einstellung informieren“.",
+      "aufgabe": "Beurteilen Sie die Stellenanzeige nach dem AGG und nennen Sie die Folge für die Einrichtung. Schlagen Sie eine rechtssichere Formulierung vor und erläutern Sie die richtige Beteiligung des Betriebsrats.",
+      "erwartung": [
+        { "text": "Urteil: Die Anzeige verstößt gegen das Benachteiligungsverbot (§ 11 i. V. m. § 7 Abs. 1 AGG): „(m)“ benachteiligt wegen des Geschlechts, „junges Team“ wegen des Alters, „Muttersprache Deutsch“ wegen der ethnischen Herkunft (§ 1 AGG).", "punkte": 2 },
+        { "text": "Folge: Die Formulierungen sind ein Indiz für eine Benachteiligung, die Einrichtung muss das Gegenteil beweisen (Beweislastumkehr, § 22 AGG); Risiko einer Entschädigung, bei Nichteinstellung bis zu drei Monatsgehälter (§ 15 Abs. 2 AGG).", "punkte": 1.5 },
+        { "text": "Rechtssichere Formulierung: z. B. „Pflegefachkraft (m/w/d) für unser engagiertes Team“ und „sehr gute Deutschkenntnisse in Wort und Schrift“.", "punkte": 1 },
+        { "text": "Betriebsrat: Bei mehr als 20 wahlberechtigten Beschäftigten ist er vor der Einstellung zu unterrichten und seine Zustimmung einzuholen (§ 99 Abs. 1 BetrVG); äußert er sich nicht innerhalb einer Woche schriftlich mit Gründen, gilt die Zustimmung als erteilt (§ 99 Abs. 3 BetrVG). „Nach der Einstellung informieren“ reicht nicht.", "punkte": 1.5 }
+      ],
+      "punkte": 6,
+      "musterloesung": "Die Anzeige ist so nicht zulässig. Sie verstößt gegen das Benachteiligungsverbot nach § 11 i. V. m. § 7 Abs. 1 AGG: „(m)“ benachteiligt wegen des Geschlechts, „junges, dynamisches Team“ wegen des Alters und „Muttersprache Deutsch“ wegen der ethnischen Herkunft – alles Merkmale nach § 1 AGG. Abgelehnte Bewerber können diese Formulierungen als Indiz vorlegen; dann muss die gGmbH beweisen, dass sie nicht benachteiligt hat (§ 22 AGG). Es droht eine Entschädigung, bei einer Nichteinstellung bis zu drei Monatsgehältern (§ 15 Abs. 2 AGG). Rechtssicher wäre: „Pflegefachkraft (m/w/d) für unser engagiertes Team, sehr gute Deutschkenntnisse in Wort und Schrift“. Da die Einrichtung mehr als 20 wahlberechtigte Beschäftigte hat, muss die Einrichtungsleitung den Betriebsrat vor der Einstellung unterrichten und seine Zustimmung einholen (§ 99 Abs. 1 BetrVG). Verweigert er sie nicht innerhalb einer Woche schriftlich mit Gründen, gilt sie als erteilt (§ 99 Abs. 3 BetrVG)."
+    },
+    {
+      "id": "gen-pers-w02-2-mw8y2bxi-4", "lz": "gen-pers-w02-2-mw8y2bxi", "typ": "rechnen",
+      "prompt": "Für den ambulanten Pflegedienst „Pflege Plus“ wurden folgende Werte ermittelt. Berechnen Sie den Nettopersonalbedarf in VK (Vollkräften). Positiv = Unterdeckung.",
+      "werte": [
+        { "label": "Einsatzbedarf", "wert": 40, "einheit": "VK" },
+        { "label": "Reservebedarf", "wert": 4.5, "einheit": "VK" },
+        { "label": "Ist-Bestand", "wert": 38, "einheit": "VK" },
+        { "label": "Abgänge", "wert": 2.5, "einheit": "VK" },
+        { "label": "Zugänge", "wert": 1, "einheit": "VK" }
+      ],
+      "formel": "=V1+V2-V3+V4-V5", "answer": 8, "unit": "VK", "tol": 0.008,
+      "loesung": "Brutto = 40 + 4,5 = 44,5 VK; Netto = 44,5 − 38 + 2,5 − 1 = 8 VK",
+      "explanation": "Bruttobedarf = Einsatz + Reserve; Netto = Brutto − Ist + Abgänge − Zugänge. Die Falle: Abgänge werden addiert, Zugänge subtrahiert. Das Ergebnis bedeutet eine Unterdeckung von 8 VK."
+    },
+    {
+      "id": "probe-pers-w02-2-rechnen-vary", "lz": "gen-pers-w02-2-mw8y2bxi", "typ": "rechnen",
+      "prompt": "Für die Rettungswache Nord wurden folgende Werte ermittelt. Berechnen Sie den Nettopersonalbedarf in VK. Positiv = Unterdeckung, negativ = Überdeckung.",
+      "vary": true, "runden": 2,
+      "werte": [
+        { "label": "Einsatzbedarf", "wert": 24, "einheit": "VK", "bereich": [18, 40, 0.5] },
+        { "label": "Reservebedarf", "wert": 3, "einheit": "VK", "bereich": [1.5, 6, 0.5] },
+        { "label": "Ist-Bestand", "wert": 25, "einheit": "VK", "bereich": [16, 42, 0.5] },
+        { "label": "Abgänge", "wert": 1.5, "einheit": "VK", "bereich": [0.5, 4, 0.5] },
+        { "label": "Zugänge", "wert": 1, "einheit": "VK", "bereich": [0.5, 3, 0.5] }
+      ],
+      "formel": "=V1+V2-V3+V4-V5", "unit": "VK", "ergebnis": [-5, 12],
+      "fehler": [
+        { "formel": "=V1+V2-V3-V4+V5", "msg": "Abgänge und Zugänge vertauscht: Abgänge werden addiert ({V4} VK), Zugänge abgezogen ({V5} VK)." },
+        { "formel": "=V1-V3+V4-V5", "msg": "Reservebedarf vergessen: Brutto = Einsatzbedarf + Reservebedarf = {=V1+V2} VK." },
+        { "formel": "=V1+V2-V3", "msg": "Abgänge und Zugänge fehlen: Netto = Brutto − Ist + Abgänge − Zugänge." }
+      ],
+      "loesungVorlage": "Brutto = {V1} + {V2} = {=V1+V2} VK; Netto = {=V1+V2} − {V3} + {V4} − {V5} = {E} VK",
+      "erklaerungVorlage": "Bruttobedarf = Einsatzbedarf + Reservebedarf; Nettobedarf = Brutto − Ist-Bestand + Abgänge − Zugänge = {E} VK. Plus heißt Unterdeckung (einstellen), Minus heißt Überdeckung."
+    },
+    {
+      "id": "gen-gen-pers-w02-2-mw8y2bxi-mw8zkko7", "lz": "gen-pers-w02-2-mw8y2bxi", "typ": "ihk",
+      "situation": "In der Wohnstätte „Lindenhof“ (Eingliederungshilfe) arbeiten die Fachkräfte im Zweischichtsystem. Die Einrichtungsleiterin Frau Yilmaz plant, die Mitarbeiterin Frau Kaya für zwei aufeinanderfolgende Tage jeweils im Spätdienst bis 22:00 Uhr und anschließend im Frühdienst ab 06:00 Uhr einzusetzen, weil Kolleginnen ausfallen. Außerdem soll der Dienstplan für das Wochenende kurzfristig geändert werden. In der Einrichtung besteht ein Betriebsrat, der bisher nicht informiert wurde.",
+      "aufgabe": "Beurteilen Sie, ob Frau Yilmaz den Einsatz von Frau Kaya und die kurzfristige Dienstplanänderung so umsetzen darf. Gehen Sie dabei auf eine Vorgabe des Arbeitszeitgesetzes und auf zwei Mitbestimmungsrechte des Betriebsrats ein.",
+      "erwartung": [
+        { "text": "Der Einsatz ist unzulässig: Zwischen Dienstende (22:00 Uhr) und Dienstbeginn (06:00 Uhr) liegen nur 8 Stunden; nach § 5 ArbZG ist eine ununterbrochene Ruhezeit von mindestens 11 Stunden einzuhalten (Verkürzung nur in engen Ausnahmen, z. B. mit Ausgleich in Einrichtungen zur Betreuung von Personen nach § 5 Abs. 2 ArbZG).", "punkte": 2 },
+        { "text": "Mitbestimmung bei Lage und Verteilung der Arbeitszeit einschließlich der Dienstplanaufstellung und -änderung nach § 87 Abs. 1 Nr. 2 BetrVG; ohne Zustimmung des Betriebsrats ist die Änderung grundsätzlich unwirksam.", "punkte": 2 },
+        { "text": "Mitbestimmung bei vorübergehender Verlängerung der betriebsüblichen Arbeitszeit (Mehrarbeit/Überstunden) nach § 87 Abs. 1 Nr. 3 BetrVG; der Betriebsrat muss vorab beteiligt werden.", "punkte": 1 }
+      ],
+      "punkte": 5,
+      "musterloesung": "Frau Yilmaz darf den Einsatz von Frau Kaya so nicht umsetzen. Zwischen dem Ende des Spätdienstes um 22:00 Uhr und dem Beginn des Frühdienstes um 06:00 Uhr liegen nur 8 Stunden, das Arbeitszeitgesetz verlangt aber nach § 5 ArbZG eine ununterbrochene Ruhezeit von mindestens 11 Stunden. Zudem darf sie die kurzfristige Änderung des Dienstplans nicht allein anordnen: Der Betriebsrat hat bei Lage und Verteilung der Arbeitszeit mitzubestimmen (§ 87 Abs. 1 Nr. 2 BetrVG), und bei einer vorübergehenden Verlängerung der betriebsüblichen Arbeitszeit, also Mehrarbeit, nach § 87 Abs. 1 Nr. 3 BetrVG. Sie muss den Betriebsrat daher vor der Umsetzung beteiligen und den Einsatz so planen, dass die Ruhezeit eingehalten wird."
+    }
+  ],
+  "vokabeln": [
+    { "id": "gen-pers-w02-1-mw8y2bxi-v1", "lz": "gen-pers-w02-1-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Strukturiertes Interview", "bedeutung": "Vorstellungsgespräch, in dem alle Bewerber dieselben vorher festgelegten Fragen bekommen und die Antworten nach einer festen Skala bewertet werden. Dadurch vergleichbar, fair und AGG-sicher.", "beispiel": "Jeder Bewerber für die Wache bekommt dieselben 8 Fragen, bewertet mit 1 bis 5 Punkten." },
+    { "id": "gen-pers-w02-1-mw8y2bxi-v2", "lz": "gen-pers-w02-1-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Assessment Center", "bedeutung": "Auswahlverfahren, bei dem mehrere Beobachter mehrere Bewerber in praxisnahen Übungen bewerten (Rollenspiel, Gruppendiskussion, Präsentation). Aufwendig – lohnt sich vor allem für Führungsstellen.", "beispiel": "Auswahl einer Wachenleitung: Konfliktgespräch als Rollenspiel, beobachtet von Rettungsdienstleiter und Personalabteilung." },
+    { "id": "probe-v3", "lz": "gen-pers-w02-1-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Arbeitsprobe", "bedeutung": "Der Bewerber erledigt eine typische Aufgabe der Stelle unter Beobachtung. Zeigt, was er wirklich kann – nicht nur, was er erzählt.", "beispiel": "Fallsimulation am Übungsphantom nach dem ABCDE-Schema." },
+    { "id": "probe-v4", "lz": "gen-pers-w02-1-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Fragerecht des Arbeitgebers", "bedeutung": "Nur Fragen mit berechtigtem Interesse für die konkrete Stelle sind erlaubt. Auf unzulässige Fragen darf der Bewerber falsch antworten („Recht zur Lüge“).", "beispiel": "Zulässig: „Haben Sie die Fahrerlaubnis C1?“ Unzulässig: „Planen Sie Kinder?“" },
+    { "id": "probe-v5", "lz": "gen-pers-w02-1-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Indiz nach § 22 AGG", "bedeutung": "Zeigt ein Bewerber Tatsachen, die eine Benachteiligung vermuten lassen, muss der Arbeitgeber beweisen, dass er nicht benachteiligt hat (Beweislastumkehr).", "beispiel": "„Junges Team gesucht“ → Indiz für Benachteiligung wegen des Alters." },
+    { "id": "probe-v6", "lz": "gen-pers-w02-1-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Entschädigung nach § 15 Abs. 2 AGG", "bedeutung": "Geldausgleich für eine Benachteiligung; bei Nichteinstellung höchstens drei Monatsgehälter, wenn der Bewerber auch bei fairer Auswahl nicht eingestellt worden wäre. Frist: schriftlich innerhalb von 2 Monaten.", "beispiel": "Abgelehnte 52-jährige Bewerberin beruft sich auf „junges Team“ – Risiko bis zu 3 Monatsgehälter." },
+    { "id": "probe-v7", "lz": "gen-pers-w02-1-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Zustimmungsfiktion (§ 99 Abs. 3 BetrVG)", "bedeutung": "Verweigert der Betriebsrat seine Zustimmung zur Einstellung nicht innerhalb einer Woche schriftlich mit Gründen, gilt sie als erteilt.", "beispiel": "Vorlage am Montag, bis zum folgenden Montag nichts Schriftliches → Einstellung erlaubt." },
+    { "id": "probe-v8", "lz": "gen-pers-w02-2-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Höchstarbeitszeit (§ 3 ArbZG)", "bedeutung": "Werktäglich höchstens 8 Stunden, bis 10 Stunden, wenn im Durchschnitt von 6 Kalendermonaten oder 24 Wochen 8 Stunden je Werktag nicht überschritten werden.", "beispiel": "7 bis 19 Uhr mit 45 Minuten Pause = 11,25 Stunden → unzulässig." },
+    { "id": "probe-v9", "lz": "gen-pers-w02-2-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Ruhepause (§ 4 ArbZG)", "bedeutung": "Bei mehr als 6 bis 9 Stunden Arbeit mindestens 30 Minuten, bei mehr als 9 Stunden mindestens 45 Minuten; teilbar in Abschnitte von mindestens 15 Minuten.", "beispiel": "Im 10-Stunden-Dienst 45 Minuten fest einplanen." },
+    { "id": "probe-v10", "lz": "gen-pers-w02-2-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Ruhezeit (§ 5 ArbZG)", "bedeutung": "Nach Dienstende mindestens 11 Stunden ununterbrochen frei; in Einrichtungen zur Behandlung, Pflege und Betreuung bis zu 1 Stunde kürzer mit Ausgleich auf mindestens 12 Stunden.", "beispiel": "Spätdienst bis 22 Uhr, Frühdienst ab 6 Uhr = 8 Stunden → unzulässig." },
+    { "id": "probe-v11", "lz": "gen-pers-w02-2-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Notfall (§ 14 ArbZG)", "bedeutung": "Außergewöhnlicher, unvorhersehbarer Fall, dessen Folgen sich nicht anders beseitigen lassen; nur dann Abweichung von §§ 3 bis 5. Krankheitsausfall zählt nicht.", "beispiel": "MANV → Ausnahme; Krankmeldung → Dienstplanung (Springer)." },
+    { "id": "probe-v12", "lz": "gen-pers-w02-2-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Lage der Arbeitszeit (§ 87 Abs. 1 Nr. 2 BetrVG)", "bedeutung": "Beginn und Ende der täglichen Arbeitszeit einschließlich Pausen und Verteilung auf die Wochentage – jeder Dienstplan und jede Änderung braucht die Zustimmung des Betriebsrats.", "beispiel": "Monatsdienstplan der Wache und jede kurzfristige Änderung." },
+    { "id": "probe-v13", "lz": "gen-pers-w02-2-mw8y2bxi", "deck": "fach", "thema": "pers", "begriff": "Überstunden anordnen (§ 87 Abs. 1 Nr. 3 BetrVG)", "bedeutung": "Vorübergehende Verlängerung der betriebsüblichen Arbeitszeit; der Betriebsrat muss vorher zustimmen.", "beispiel": "Zwei Kollegen sollen länger bleiben → vorher Zustimmung des Betriebsrats." }
+  ]
+}
