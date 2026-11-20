@@ -135,6 +135,9 @@ fun KiAnsicht(z: AppZustand) {
                     modifier = Modifier.fillMaxWidth(),
                 ) { Text("${a.name} · ${a.groesse}" + if (vorhanden) " ✔" else "") }
                 Klein(a.hinweis)
+                if (a.minRamGb > 0 && z.ramGb() < a.minRamGb) {
+                    Klein("⚠ Dein Handy hat ${Rechnen.zahl(z.ramGb(), 1)} GB Arbeitsspeicher – für dieses Modell knapp. Andere Apps vorher schließen; stürzt die App beim Laden ab, E4B nehmen.", Rot)
+                }
             }
             OutlinedButton(onClick = { waehlen.launch(arrayOf("*/*")) }, enabled = kopieren == null, modifier = Modifier.fillMaxWidth()) {
                 Text("Modelldatei vom Handy übernehmen (.litertlm)")

@@ -192,6 +192,14 @@ class AppZustand(private val app: Application) {
 
     // ---------------- Gerät ----------------
 
+    /** Arbeitsspeicher des Handys in GB (für Warnungen bei großen Modellen). */
+    fun ramGb(): Double {
+        val am = app.getSystemService(ActivityManager::class.java) ?: return 0.0
+        val mi = ActivityManager.MemoryInfo()
+        am.getMemoryInfo(mi)
+        return mi.totalMem / 1_000_000_000.0
+    }
+
     fun geraetText(): String {
         val am = app.getSystemService(ActivityManager::class.java)
         val mi = ActivityManager.MemoryInfo()

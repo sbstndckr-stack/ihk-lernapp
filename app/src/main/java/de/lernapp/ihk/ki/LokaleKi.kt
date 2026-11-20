@@ -54,6 +54,8 @@ class LokaleKi(private val context: Context) {
                         modelPath = pfad,
                         backend = if (art == "GPU") Backend.GPU() else Backend.CPU(),
                         cacheDir = context.cacheDir.path,
+                        // Kurze Prüfungsaufgaben brauchen wenig Kontext – spart Speicher (wichtig für 12B).
+                        maxNumTokens = 4096,
                     )
                     val e = Engine(cfg)
                     e.initialize()

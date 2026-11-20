@@ -11,7 +11,14 @@ import java.io.File
 /** Modelle herunterladen (Hugging Face, direkt aufs Handy) oder vom Handy-Speicher übernehmen. */
 class ModellVerwaltung(private val ctx: Context) {
 
-    data class Angebot(val name: String, val datei: String, val url: String, val groesse: String, val hinweis: String)
+    data class Angebot(
+        val name: String,
+        val datei: String,
+        val url: String,
+        val groesse: String,
+        val hinweis: String,
+        val minRamGb: Double = 0.0,
+    )
 
     data class Laden(val id: Long, val datei: String, val geladen: Long, val gesamt: Long, val status: Int) {
         val fertig: Boolean get() = status == DownloadManager.STATUS_SUCCESSFUL
@@ -20,6 +27,12 @@ class ModellVerwaltung(private val ctx: Context) {
     }
 
     val angebote = listOf(
+        Angebot(
+            "Gemma 4 12B (stärkste, Test)", "gemma-4-12B-it.litertlm",
+            "https://huggingface.co/litert-community/gemma-4-12B-it-litert-lm/resolve/main/gemma-4-12B-it.litertlm?download=true",
+            "6,9 GB", "deutlich stärker beim Bewerten; von Google für Laptops gedacht, am Handy ein Versuch: braucht rund 8 GB freien Speicher, nur mit GPU sinnvoll",
+            minRamGb = 14.0,
+        ),
         Angebot(
             "Gemma 4 E4B (empfohlen)", "gemma-4-E4B-it.litertlm",
             "https://huggingface.co/litert-community/gemma-4-E4B-it-litert-lm/resolve/main/gemma-4-E4B-it.litertlm?download=true",

@@ -28,6 +28,7 @@ Falls der Bau an LiteRT-LM scheitert: in `app/build.gradle.kts` die Version auf 
 ## Erster Start auf dem Handy
 
 1. **KI & Einstellungen** → „Gemma 4 E4B (empfohlen)“ herunterladen (3,7 GB, WLAN) → **Laden** → **Kurztest**.
+   Stärker, aber ein Versuch: „Gemma 4 12B“ (6,9 GB, braucht rund 8 GB freien Arbeitsspeicher, sinnvoll ab 16 GB RAM, nur mit GPU). Welches Modell bleibt, entscheidet der Modelltest.
 2. Startseite → **Probe-Paket laden** (2 Lernziele Personal W02 zum Ausprobieren) oder **Kurs-Paket importieren** (JSON aus dem Lern-Monitor, siehe `MONITOR_EXPORT.md`).
 3. Optional: Claude-API-Schlüssel eintragen (console.anthropic.com) und Monatsbudget prüfen. Modellnamen und Preise sind dort änderbar.
 4. Nach ein paar Claude-Bewertungen: **Qualitätskreis → Modelltest** – zeigt Abweichung je Erwartung, Treffer und „milder als Claude“. Danach E2B gegen E4B vergleichen.
